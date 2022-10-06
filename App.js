@@ -32,10 +32,6 @@ export default function App() {
 
 const styles = StyleSheet.create({
   theHeader: {
-    x: 0,
-    y:0,
-    width: 200,
-    height: 200,
     flex: 1,
     backgroundColor: 'Black',
     alignItems: 'center',
@@ -44,10 +40,6 @@ const styles = StyleSheet.create({
     borderWidth:5,
   },
   personalInfo: {
-    x: 0,
-    y:200,
-    width: 200,
-    height: 200,
     flex: 1,
     backgroundColor: 'Red',
     alignItems: 'center',
@@ -57,10 +49,6 @@ const styles = StyleSheet.create({
   },
 
   theSkills: {
-    x: 0,
-    y:400,
-    width: 200,
-    height: 200,
     flex: 1,
     backgroundColor: 'Orange',
     alignItems: 'center',
@@ -70,10 +58,6 @@ const styles = StyleSheet.create({
   },
 
   theSubmission: {
-    x: 0,
-    y:600,
-    width: 200,
-    height: 200,
     flex: 1,
     backgroundColor: 'Yellow',
     alignItems: 'center',
